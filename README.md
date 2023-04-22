@@ -1,6 +1,6 @@
 # Working-with-Dates-and-Times-in-Python
 
-#### As soon as time enters any analysis, things can get weird. It's easy to get tripped up on day and month boundaries, time zones, daylight saving time, and all sorts of other things that can confuse the unprepared. If you're going to do any kind of analysis involving time, you’ll want to use Python to sort it out. . This repository is consist of 4 categories :
+#### As soon as time enters any analysis, things can get weird. It's easy to get tripped up on day and month boundaries, time zones, daylight saving time, and all sorts of other things that can confuse the unprepared. If you're going to do any kind of analysis involving time, you’ll want to use Python to sort it out . This repository is consist of 4 categories :
 
 - Dates and Calendars
 
